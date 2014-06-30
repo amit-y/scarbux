@@ -1,0 +1,30 @@
+body {
+  /* font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; */
+
+}
+
+a {
+  /* color: #00B7FF; */
+}
+
+h1, .bullet-item, .light-small {
+	font-family: 'Lato', sans-serif;
+}
+
+.spec {
+	font-size: 2rem !important;
+}
+
+.spec span {
+	display: block;
+	color: #777;
+	font-size: .75rem;
+	margin-top: .5rem;
+	text-transform: uppercase;
+}
+
+.light-small {
+	color: #777;
+	font-size: .9rem;
+	text-transform: lowercase;
+}
